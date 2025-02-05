@@ -9,6 +9,9 @@ Place the MP_MapSwitch.dll and MP_MapSwitch.ini in the /scripts folder.
 - ScriptHookV
 - ScriptHookVDotNet2
 
+## Use
+Press the designated key in MP_MapSwitch.ini ("k" by default) to alternate between singleplayer or multiplayer map.
+
 ## Compatibility Issues
 Other mods that load the MP map can cause minor bugs (like desynchronize the load variable, nothing too serious).
 
