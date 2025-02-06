@@ -50,11 +50,12 @@
     <ErrorReport>prompt</ErrorReport>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="NativeUI">
-      <HintPath>.\NativeUI.dll</HintPath>
+    <Reference Include="iFruitAddon2">
+      <HintPath>.\iFruitAddon2.dll</HintPath>
     </Reference>
-    <Reference Include="ScriptHookVDotNet2">
-      <HintPath>.\ScriptHookVDotNet2.dll</HintPath>
+    <Reference Include="ScriptHookVDotNet3, Version=3.7.0.14, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\ScriptHookVDotNet3.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
